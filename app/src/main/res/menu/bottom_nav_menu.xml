@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/nav_courses"
+        android:icon="@drawable/courses_24"
+        android:title="@string/menu_courses"/>
+
+    <item
+        android:id="@+id/nav_quiz_setting"
+        android:icon="@drawable/quiz_game_24"
+        android:title="@string/menu_quiz_game" />
+
+
+
+</menu>
